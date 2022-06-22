@@ -4,8 +4,6 @@ This project uses MySQL workbench and Tableau for the ETL process and creates tw
 
 
 # Result
-![alt text](https://github.com/GuanSoh/Sales-Analysisi-Using-Tableau/blob/main/Dashboard%201.png)
-
 
 ![alt text](https://github.com/GuanSoh/Sales-Analysisi-Using-Tableau/blob/main/Dashboard%202.png)
 
