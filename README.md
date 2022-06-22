@@ -9,3 +9,5 @@ This project uses MySQL workbench and Tableau for the ETL process and creates tw
 
 ![alt text](https://github.com/GuanSoh/Sales-Analysisi-Using-Tableau/blob/main/Dashboard%202.png)
 
+Both Dashboards have filter bar to filter information in dashbaord based on years and months.
+
